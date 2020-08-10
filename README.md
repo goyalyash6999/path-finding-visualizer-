@@ -1,1 +1,1 @@
-# path-finding-visualizer-
+# path-finding-visualizer-using a star algo
